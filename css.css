@@ -43,9 +43,14 @@ body{
     filter: invert(100%);
 
 }
+#leaf{
+    margin: 10px 55px;
+}
 #contact p{
-    margin-top: 5px;
+    margin-top: 10px;
+    margin-left: 2px;
     display: inline-block;
+    padding-bottom:2px ;
 }
 #contact a{
     text-decoration: none;
